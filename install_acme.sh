@@ -23,6 +23,7 @@ cd acme.sh
 --accountemail "${_accountemail}" \
 --accountkey "${_accountkey}" \
 --accountconf "${_accountconf}" \
---useragent "${_useragent}"
+--useragent "${_useragent}" \
+--nocron
 
 exit 0
