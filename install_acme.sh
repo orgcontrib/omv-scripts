@@ -25,5 +25,3 @@ cd acme.sh
 --accountconf "${_accountconf}" \
 --useragent "${_useragent}" \
 --nocron
-
-exit 0
