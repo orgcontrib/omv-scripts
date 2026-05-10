@@ -3,7 +3,7 @@
 # change domain
 domain="example.com"
 
-liveDir="/etc/acme.sh/live"
+liveDir="/usr/local/etc/acme.sh/live"
 cert="${liveDir}/${domain}/cert.pem"
 key="${liveDir}/${domain}/privkey.pem"
 
